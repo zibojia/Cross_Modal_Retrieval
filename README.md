@@ -1,26 +1,33 @@
 # Cross_Modal_Retrieval
 
 A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval [\[link\]](https://openreview.net/pdf?id=-KPNRZ8i0ag)
+
 Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9)
+
 Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval [\[link\]](https://openreview.net/pdf?id=XevwsaZ-4z)
 
 Learning with Noisy Correspondence for Cross-modal Matching [\[link\]](https://openreview.net/forum?id=S9ZyhWC17wJ)
 
 CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching [\[link\]](https://nips.cc/virtual/2020/public/poster_285f89b802bcb2651801455c86d78f2a.html)
 
-https://aclanthology.org/2021.emnlp-main.47
+Everything at Once – Multi-modal Fusion Transformer for Video Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf)
 
-https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2022/papers/Bogolin_Cross_Modal_Retrieval_With_Querybank_Normalisation_CVPR_2022_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_COTS_Collaborative_Two-Stream_Vision-Language_Pre-Training_Model_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_UMT_Unified_Multi-Modal_Transformers_for_Joint_Video_Moment_Retrieval_and_CVPR_2022_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2022/papers/Gorti_X-Pool_Cross-Modal_Language-Video_Attention_for_Text-Video_Retrieval_CVPR_2022_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2021/papers/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf
-https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Learning_Cross-Modal_Retrieval_With_Noisy_Labels_CVPR_2021_paper.pdf
+Cross Modal Retrieval with Querybank Normalisation [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bogolin_Cross_Modal_Retrieval_With_Querybank_Normalisation_CVPR_2022_paper.pdf)
+
+EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)
+
+COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_COTS_Collaborative_Two-Stream_Vision-Language_Pre-Training_Model_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)
+
+ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)
+
+X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gorti_X-Pool_Cross-Modal_Language-Video_Attention_for_Text-Video_Retrieval_CVPR_2022_paper.pdf)
+
+Probabilistic Embeddings for Cross-Modal Retrieval[\[link\](https://openaccess.thecvf.com/content/CVPR2021/papers/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.pdf)
+
+Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval[\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf)
+
+Learning Cross-Modal Retrieval with Noisy Labels[\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Learning_Cross-Modal_Retrieval_With_Noisy_Labels_CVPR_2021_paper.pdf)
+
 https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Cross-Modal_Center_Loss_for_3D_Cross-Modal_Retrieval_CVPR_2021_paper.pdf
 https://openaccess.thecvf.com/content/CVPR2021/papers/Salvador_Revamping_Cross-Modal_Recipe_Retrieval_With_Hierarchical_Transformers_and_Self-Supervised_Learning_CVPR_2021_paper.pdf
 https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_IMRAM_Iterative_Matching_With_Recurrent_Attention_Memory_for_Cross-Modal_Image-Text_CVPR_2020_paper.pdf
