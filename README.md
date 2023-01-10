@@ -66,9 +66,7 @@ Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retriev
 
 CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval [\[link\]](https://arxiv.org/pdf/2208.09843)
 
-A Sketch Is Worth a Thousand Words:Image Retrieval with Text and Sketch [\[link\]](https://arxiv.org/pdf/2208.03354.pdf)
-
-LWGNet – Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval [\[link\]](https://arxiv.org/pdf/2208.04283)
+A Sketch Is Worth a Thousand Words:Image Retrieval with Text and Sketch [\[link\]](https://arxiv.org/pdf/2208.03354.pdf) \[COCO\]
 
 Multi-modal Transformer for Video Retrieval [\[link\]](https://arxiv.org/pdf/2007.10639) \[MSRVTT, ActivityNet, LSMDC\]
 
