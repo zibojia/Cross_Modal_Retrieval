@@ -7,19 +7,19 @@
 |  CC3M         | 3.3M      | CUB           | 11K | 
 |    Multi30K   | 151K      | CC14M         | 14M | 
 | Fashion-Gen   | 293K      | XTD           | 10K | 
-| Amazon reviews|    14M    |        -      |  -  |
+| Amazon reviews|    14M    |               |     |
 
 
 
 | Video Dataset| Num | Video Dataset |Num|
 |  ----------- | --------- | ------------ | --- |
-| MSRVTT       |  10K      |MSVD          |     |
-| LSMDC        |  118K     |DIDEMO        |     |
-| YouCook2     |   2K      |YFCC          |     |
-| CrossTask    |    4K     |HowTo100M     |     |
-| VaTeX        |    41K    |Mining Youtube|     |
-| WebVid2M     |    2M       |QueryYD       |     |
-|  VGGSound    | 200K       | LiveBot      |     |
+| MSRVTT       |  10K      |MSVD          | 2K   |
+| LSMDC        |  118K     |DIDEMO        | 8K   |
+| YouCook2     |   2K      |YFCC          |100M     |
+| CrossTask    |    4K     |HowTo100M     |100M    |
+| VaTeX        |    41K    |Mining Youtube|20K    |
+| WebVid2M     |    2M       |QueryYD       | 1K    |
+|  VGGSound    | 200K       | LiveBot      | 2K   |
 |  Kinetics-700| 650K     | FCVID        | 91K |
 |  ActivityNet | 20K       |              |     |
 
