@@ -28,9 +28,10 @@
 
 ### 2022
 
-|   Paper    |Task       |Dataset|
-|----------- | --------- |-------|
-|Multi-Lingual Acquisition on Multimodal Pre-training<br> for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) |Image Retrieval|CC3M, Multi30K, COCO, XTD, MSRVTT|
+|   Paper    |Task       |Dataset|Is Pretraining|
+|----------- | --------- |-------|--------------|
+|Multi-Lingual Acquisition on Multimodal Pre-training<br> for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) |Image Retrieval|CC3M, Multi30K, COCO, XTD, MSRVTT|Yes|
+
 
 **Video**
 
