@@ -2,12 +2,12 @@
 
 | Image Dataset | Num       | Video Dataset | Num |
 | ------------- | --------- | ------------- | --- |
-| COCO          | 123K      | ||
-| Flickr        | 31K       | VG            | 14M | 
-| SBU           | 14M       | CUB           | 11K | 
-| CC3M          | 3.3M      | CC14M         | 14M | 
-| Multi30K      | 151K      | XTD           | 10K | 
-| Fashion-Gen   | 14M       | Amazon reviews| 14M | 
+| COCO          | 123K      | Flickr        | 31K |
+|SBU            |           | VG            |  -  | 
+|  CC3M         | 3.3M      | CUB           | 11K | 
+|    Multi30K   | 151K      | CC14M         | 14M | 
+| Fashion-Gen   | -         | XTD           | 10K | 
+| Amazon reviews|    14M    |        -      |  -  |
 
 
 ******************************************************************
