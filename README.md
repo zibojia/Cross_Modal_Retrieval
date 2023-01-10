@@ -98,8 +98,6 @@ Learning Linguistic Association Towards Efficient Text-Video Retrieval [\[link\]
 
 CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval [\[link\]](https://arxiv.org/pdf/2208.09843) \[COCO, Flickr\]
 
-A Sketch Is Worth a Thousand Words:Image Retrieval with Text and Sketch [\[link\]](https://arxiv.org/pdf/2208.03354.pdf) \[COCO\]
-
 ### 2021
 Learning with Noisy Correspondence for Cross-modal Matching [\[link\]](https://openreview.net/pdf?id=S9ZyhWC17wJ) \[COCO, Flickr, CC152K\]
 
