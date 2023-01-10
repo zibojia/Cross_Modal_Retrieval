@@ -52,19 +52,19 @@ Dual-Stream Knowledge-Preserving Hashing for Unsupervised Video Retrieval [\[lin
 
 MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval [\[link\]](https://arxiv.org/pdf/2204.12408)
 
-Multi-Query Video Retrieval [\[link\]](https://arxiv.org/pdf/2201.03639)
+Multi-Query Video Retrieval [\[link\]](https://arxiv.org/pdf/2201.03639) \[MSR-VTT, MSVD, VATEX\]
 
-Selective Query-guided Debiasing for Video Corpus Moment Retrieval [\[link\]](https://arxiv.org/pdf/2210.08714)
+Selective Query-guided Debiasing for Video Corpus Moment Retrieval [\[link\]](https://arxiv.org/pdf/2210.08714) \[TVR, ActivityNet, DiDeMo\]
 
-TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval [\[link\]](https://arxiv.org/pdf/2207.07852)
+TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval [\[link\]](https://arxiv.org/pdf/2207.07852) \[MSRVTT, VATEX, LSMDC, ActivityNet, DiDeMo\]
 
-Learning Linguistic Association Towards Efficient Text-Video Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960251.pdf)
+Learning Linguistic Association Towards Efficient Text-Video Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960251.pdf) \[MSRVTT, MSVD, VATEX\]
 
-Deep Hash Distillation for Image Retrieval [\[link\]](https://arxiv.org/pdf/2112.08816)
+Deep Hash Distillation for Image Retrieval [\[link\]](https://arxiv.org/pdf/2112.08816) \[ImageNet, NUS-WIDE, COCO\]
 
-Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval [\[link\]](https://arxiv.org/pdf/2112.01832)
+Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval [\[link\]](https://arxiv.org/pdf/2112.01832) \[MSRVTT\]
 
-CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval [\[link\]](https://arxiv.org/pdf/2208.09843)
+CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval [\[link\]](https://arxiv.org/pdf/2208.09843) \[COCO, Flickr\]
 
 A Sketch Is Worth a Thousand Words:Image Retrieval with Text and Sketch [\[link\]](https://arxiv.org/pdf/2208.03354.pdf) \[COCO\]
 
