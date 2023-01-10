@@ -1,28 +1,18 @@
 # Cross_Modal_Retrieval
 
-**Image**
-
-COCO  123K
-
-CUB 11K
-
-Flickr 31K
-
-CC3M 3.3M
-
-CC14M 14M
-
-Multi30K 151K
-
-XTD 10K
-
-Fashion-Gen
-
-Amazon reviews
-
-VG
-
-SBU
+| Image Dataset | Num       | Video Dataset | Num |
+| ------------- | --------- | ------------- | --- |
+| COCO          | 123K      |               |     |
+| Flickr        | 31K       | column 3      |     |
+| VG            | 14M       | column 3      |     |
+| SBU           | 14M       | column 3      |     |
+| CUB           | 11K       | column 3      |     |
+| CC3M          | 3.3M      | column 3      |     |
+| CC14M         | 14M       | column 3      |     |
+| Multi30K      | 151K      | column 3      |     |
+| XTD           | 10K       | column 3      |     |
+| Fashion-Gen   | 14M       | column 3      |     |
+| Amazon reviews| 14M       | column 3      |     |
 
 
 **Video**
@@ -62,7 +52,8 @@ ActivityNet 20K
 YFCC
 
 ### 2022
-**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** [\[link\]](https://openreview.net/pdf?id=-KPNRZ8i0ag) \[COCO, CUB, Flickr\]
+
+**Video**
 
 Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) \[CC3M, Multi30K, COCO, XTD, MSRVTT\] [LSMDC, DiDeMo, MSVD, MSRVTT, ActivityNet, VaTeX, QuerYD]
 
@@ -71,6 +62,12 @@ Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval [
 Everything at Once – Multi-modal Fusion Transformer for Video Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf) \[HowTo100M, Web, CrossTask, Mining YouTube\]
 
 **Cross Modal Retrieval with Querybank Normalisation** [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bogolin_Cross_Modal_Retrieval_With_Querybank_Normalisation_CVPR_2022_paper.pdf) \[MSRVTT, LSMDC, MSVD, VaTeX,  QueryYD, DiDeMo\]
+
+
+
+**Image**
+
+**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** [\[link\]](https://openreview.net/pdf?id=-KPNRZ8i0ag) \[COCO, CUB, Flickr\]
 
 EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) \[Fashion-Gen, Amazon reviews\]
 
