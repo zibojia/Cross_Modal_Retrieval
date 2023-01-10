@@ -99,6 +99,8 @@ MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text 
 **CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval** [\[link\]](https://arxiv.org/pdf/2208.09843) \[COCO, Flickr\]
 
 ### 2021
+Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval [\[link\]](https://arxiv.org/pdf/2103.11920.pdf) \[COCO, Flickr, CC14K\]
+
 Learning with Noisy Correspondence for Cross-modal Matching [\[link\]](https://openreview.net/pdf?id=S9ZyhWC17wJ) \[COCO, Flickr, CC152K\]
 
 **Probabilistic Embeddings for Cross-Modal Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.pdf) \[COCO, CUB\]
