@@ -14,13 +14,13 @@
 | Video Dataset| Num | Video Dataset |Num|
 |  ----------- | --------- | ------------ | --- |
 | MSRVTT       |  10K      |MSVD          |     |
-| LSMDC        |           |DIDEMO        |     |
-| YouCook2     |           |YFCC          |     |
-| CrossTask    |           |HowTo100M     |     |
-| VaTeX        |           |Mining Youtube|     |
-| WebVid2M     |           |QueryYD       |     |
-|  VGGSound    | 14M       | LiveBot      |     |
-|  Kinetics-700| 14M       | FCVID        | 91K |
+| LSMDC        |  118K     |DIDEMO        |     |
+| YouCook2     |   2K      |YFCC          |     |
+| CrossTask    |    4K     |HowTo100M     |     |
+| VaTeX        |    41K    |Mining Youtube|     |
+| WebVid2M     |    2M       |QueryYD       |     |
+|  VGGSound    | 200K       | LiveBot      |     |
+|  Kinetics-700| 650K     | FCVID        | 91K |
 |  ActivityNet | 20K       |              |     |
 
 
