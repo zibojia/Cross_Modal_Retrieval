@@ -14,8 +14,10 @@
 | Fashion-Gen   | 14M       | QueryYD      |     |
 | Amazon reviews| 14M       | WebVid2M      |     |
 
+******************************************************************
 
 | VGGSound    | 14M       | LiveBot      |     |
+| ------------- | --------- | ------------- | --- |
 | Kinetics-700| 14M       | FCVID        |91K  |
 | ActivityNet | 20K       | YFCC         |     |
 
