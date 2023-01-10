@@ -32,38 +32,49 @@
 |-----------    | --------- |-------|--------------|----|
 |Image Retrieval|Multi-Lingual Acquisition on Multimodal Pre-training<br> for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) |CC3M, Multi30K, COCO, XTD, MSRVTT|Yes|2022|
 |Video Retrieval|Text-Adaptive Multiple Visual Prototype Matching for<br> Video-Text Retrieval[\[link\]](https://openreview.net/pdf?id=XevwsaZ-4z)|MSRVTT, MSVD, DIDEMO, LSMDC|No|2022|
+|Video Retrieval|Everything at Once – Multi-modal Fusion Transformer for Video Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf)|HowTo100M, Web, CrossTask, Mining YouTube|Yes|2022|
+||**Cross Modal Retrieval with Querybank Normalisation** [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bogolin_Cross_Modal_Retrieval_With_Querybank_Normalisation_CVPR_2022_paper.pdf)|MSRVTT, LSMDC, MSVD, VaTeX,  QueryYD, DiDeMo|||
+||**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** [\[link\]](https://openreview.net/pdf?id=-KPNRZ8i0ag)|COCO, CUB, Flickr|||
+|EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)|Fashion-Gen, Amazon reviews||||
+|COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_COTS_Collaborative_Two-Stream_Vision-Language_Pre-Training_Model_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)|CC3M, CC14M, SBU, VG, COCO, Flickr||||
+||ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)|VG, Flickr, TC, CTC|||
+|**X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gorti_X-Pool_Cross-Modal_Language-Video_Attention_for_Text-Video_Retrieval_CVPR_2022_paper.pdf) |\[MSVD, LSMDC, MSRVTT\]||||
+||ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound [\[link\]](https://arxiv.org/pdf/2204.02874)| \[WebVid2M, VGGSound\]|||
+||VTC: Improving Video-Text Retrieval with User Comments [\[link\]](https://arxiv.org/pdf/2210.10820)| \[LiveBot, Kinetics-700\]
+\]|||
+||**Dual-Stream Knowledge-Preserving Hashing for Unsupervised Video Retrieval** [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740175.pdf)| \[FCVID, ActivityNet and YFCC\]|||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
 
 
 **Video**
 
-Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) \[CC3M, Multi30K, COCO, XTD, MSRVTT\] 
-
 [LSMDC, DiDeMo, MSVD, MSRVTT, ActivityNet, VaTeX, QuerYD]
 
 
-Everything at Once – Multi-modal Fusion Transformer for Video Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf) \[HowTo100M, Web, CrossTask, Mining YouTube\]
-
-**Cross Modal Retrieval with Querybank Normalisation** [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Bogolin_Cross_Modal_Retrieval_With_Querybank_Normalisation_CVPR_2022_paper.pdf) \[MSRVTT, LSMDC, MSVD, VaTeX,  QueryYD, DiDeMo\]
 
 
 
-**Image**
-
-**A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** [\[link\]](https://openreview.net/pdf?id=-KPNRZ8i0ag) \[COCO, CUB, Flickr\]
-
-EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) \[Fashion-Gen, Amazon reviews\]
-
-COTS: Collaborative Two-Stream Vision-Language Pre-Training Model for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_COTS_Collaborative_Two-Stream_Vision-Language_Pre-Training_Model_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) \[CC4M, CC14M, SBU, VG, COCO, Flickr\]
-
-ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) \[VG, Flickr, TC, CTC\]
-
-**X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gorti_X-Pool_Cross-Modal_Language-Video_Attention_for_Text-Video_Retrieval_CVPR_2022_paper.pdf) \[MSVD, LSMDC, MSRVTT\]
-
-ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound [\[link\]](https://arxiv.org/pdf/2204.02874) \[WebVid2M, VGGSound\]
-
-VTC: Improving Video-Text Retrieval with User Comments [\[link\]](https://arxiv.org/pdf/2210.10820) \[LiveBot, Kinetics-700\]
-\]
-**Dual-Stream Knowledge-Preserving Hashing for Unsupervised Video Retrieval** [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740175.pdf) \[FCVID, ActivityNet and YFCC\]
 
 MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval [\[link\]](https://arxiv.org/pdf/2204.12408) \[ CC3M, WebVid-2M, MSVD, LSMDC, DiDeMo\]
 
