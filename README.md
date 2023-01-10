@@ -44,13 +44,13 @@ Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-
 
 Wasserstein Coupled Graph Learning for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Wasserstein_Coupled_Graph_Learning_for_Cross-Modal_Retrieval_ICCV_2021_paper.pdf)
 
-ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound [\[link\]](https://arxiv.org/pdf/2204.02874)
+ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound [\[link\]](https://arxiv.org/pdf/2204.02874) \[WebVid2M, VGGSound\]
 
-VTC: Improving Video-Text Retrieval with User Comments [\[link\]](https://arxiv.org/pdf/2210.10820)
-
+VTC: Improving Video-Text Retrieval with User Comments [\[link\]](https://arxiv.org/pdf/2210.10820) \[FCVID, ActivityNet, YFCC\]
+\]
 Dual-Stream Knowledge-Preserving Hashing for Unsupervised Video Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740175.pdf)
 
-MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval [\[link\]](https://arxiv.org/pdf/2204.12408)
+MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval [\[link\]](https://arxiv.org/pdf/2204.12408) \[ CC3M, WebVid-2M, MSVD, LSMDC, DiDeMo\]
 
 Multi-Query Video Retrieval [\[link\]](https://arxiv.org/pdf/2201.03639) \[MSR-VTT, MSVD, VATEX\]
 
