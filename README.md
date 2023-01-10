@@ -70,12 +70,9 @@ A Sketch Is Worth a Thousand Words:Image Retrieval with Text and Sketch [\[link\
 
 LWGNet – Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval [\[link\]](https://arxiv.org/pdf/2208.04283)
 
-Multi-modal Transformer for Video Retrieval [\[link\]](https://arxiv.org/pdf/2007.10639)
+Multi-modal Transformer for Video Retrieval [\[link\]](https://arxiv.org/pdf/2007.10639) \[MSRVTT, ActivityNet, LSMDC\]
 
-Preserving Semantic Neighborhoods for Robust Cross-modal Retrieval [\[link\]](https://arxiv.org/pdf/2007.08617)
+Preserving Semantic Neighborhoods for Robust Cross-modal Retrieval [\[link\]](https://arxiv.org/pdf/2007.08617) \[Politics,  GoodNews, CC, COCO\]
 
-Learning Joint Visual Semantic Matching Embeddings for Language-guided Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670137.pdf)
+Learning Joint Visual Semantic Matching Embeddings for Language-guided Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670137.pdf) \[Fashion200k\]
 
-SOLAR: Second-Order Loss and Attention for Image Retrieval [\[link\]](https://arxiv.org/pdf/2001.08972)
-
-VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval [\[link\]](https://arxiv.org/pdf/2008.10238)
