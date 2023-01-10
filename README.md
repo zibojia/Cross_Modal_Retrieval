@@ -40,14 +40,13 @@
 ||ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)|VG, Flickr, TC, CTC|||
 ||**X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gorti_X-Pool_Cross-Modal_Language-Video_Attention_for_Text-Video_Retrieval_CVPR_2022_paper.pdf) |\[MSVD, LSMDC, MSRVTT\]|||
 ||ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound [\[link\]](https://arxiv.org/pdf/2204.02874)| \[WebVid2M, VGGSound\]|||
-||VTC: Improving Video-Text Retrieval with User Comments [\[link\]](https://arxiv.org/pdf/2210.10820)| \[LiveBot, Kinetics-700\]
-\]|||
+||VTC: Improving Video-Text Retrieval with User Comments [\[link\]](https://arxiv.org/pdf/2210.10820)| \[LiveBot, Kinetics-700\]|||
 ||**Dual-Stream Knowledge-Preserving Hashing for Unsupervised Video Retrieval** [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740175.pdf)| \[FCVID, ActivityNet and YFCC\]|||
 ||MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval [\[link\]](https://arxiv.org/pdf/2204.12408)| \[ CC3M, WebVid-2M, MSVD, LSMDC, DiDeMo\]|||
-||||||
-||||||
-||||||
-||||||
+||**Multi-Query Video Retrieval** [\[link\]](https://arxiv.org/pdf/2201.03639)| \[MSR-VTT, MSVD, VATEX\]|||
+||**Selective Query-guided Debiasing for Video Corpus Moment Retrieval** [\[link\]](https://arxiv.org/pdf/2210.08714)| \[TVR, ActivityNet, DiDeMo\]|||
+||**TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval** [\[link\]](https://arxiv.org/pdf/2207.07852)| \[MSRVTT, VATEX, LSMDC, ActivityNet, DiDeMo\]|||
+||**Learning Linguistic Association Towards Efficient Text-Video Retrieval** [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960251.pdf)| \[MSRVTT, MSVD, VATEX\]|||
 ||||||
 ||||||
 ||||||
@@ -72,19 +71,6 @@
 [LSMDC, DiDeMo, MSVD, MSRVTT, ActivityNet, VaTeX, QuerYD]
 
 
-
-
-
-
-
-
-**Multi-Query Video Retrieval** [\[link\]](https://arxiv.org/pdf/2201.03639) \[MSR-VTT, MSVD, VATEX\]
-
-**Selective Query-guided Debiasing for Video Corpus Moment Retrieval** [\[link\]](https://arxiv.org/pdf/2210.08714) \[TVR, ActivityNet, DiDeMo\]
-
-**TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval** [\[link\]](https://arxiv.org/pdf/2207.07852) \[MSRVTT, VATEX, LSMDC, ActivityNet, DiDeMo\]
-
-**Learning Linguistic Association Towards Efficient Text-Video Retrieval** [\[link\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960251.pdf) \[MSRVTT, MSVD, VATEX\]
 
 **CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval** [\[link\]](https://arxiv.org/pdf/2208.09843) \[COCO, Flickr\]
 
