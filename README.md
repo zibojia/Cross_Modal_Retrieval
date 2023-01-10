@@ -2,54 +2,56 @@
 
 | Image Dataset | Num       | Video Dataset | Num |
 | ------------- | --------- | ------------- | --- |
-| COCO          | 123K      |               |     |
-| Flickr        | 31K       | column 3      |     |
-| VG            | 14M       | column 3      |     |
-| SBU           | 14M       | column 3      |     |
-| CUB           | 11K       | column 3      |     |
-| CC3M          | 3.3M      | column 3      |     |
-| CC14M         | 14M       | column 3      |     |
-| Multi30K      | 151K      | column 3      |     |
-| XTD           | 10K       | column 3      |     |
-| Fashion-Gen   | 14M       | column 3      |     |
-| Amazon reviews| 14M       | column 3      |     |
+| COCO          | 123K      | MSRVTT        |  10K   |
+| Flickr        | 31K       | DIDEMO      |     |
+| VG            | 14M       | LSMDC      |     |
+| SBU           | 14M       | MSVD      |     |
+| CUB           | 11K       | YouCook2      |     |
+| CC3M          | 3.3M      | HowTo100M      |     |
+| CC14M         | 14M       | CrossTask      |     |
+| Multi30K      | 151K      | Mining Youtube    |     |
+| XTD           | 10K       | VaTeX      |     |
+| Fashion-Gen   | 14M       | QueryYD      |     |
+| Amazon reviews| 14M       | WebVid2M      |     |
 
 
-**Video**
+| VGGSound    | 14M       | LiveBot      |     |
+| Kinetics-700| 14M       | FCVID        |91K  |
+| ActivityNet | 20K       | YFCC         |     |
 
-MSRVTT 10K
+ 
 
-DIDEMO
 
-LSMDC
 
-MSVD
 
-YouCook2
 
-HowTo100M
 
-CrossTask
 
-Mining Youtube
 
-VaTeX
 
-QueryYD
 
-WebVid2M
 
-VGGSound
 
-LiveBot
 
-Kinetics-700
 
-FCVID 91K
 
-ActivityNet 20K
 
-YFCC
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
 
 ### 2022
 
