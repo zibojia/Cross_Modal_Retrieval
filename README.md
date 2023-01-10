@@ -103,6 +103,8 @@ Learning with Noisy Correspondence for Cross-modal Matching [\[link\]](https://o
 
 **Probabilistic Embeddings for Cross-Modal Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.pdf) \[COCO, CUB\]
 
+TEACHTEXT: CrossModal Generalized Distillation for Text-Video Retrieval [\[link\]](http://www.csyangliu.com/Material/ICCV_TEACHTEXT.pdf)
+
 **Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf) \[COCO, MSRVTT, MSVD, LSMDC\]
 
 Learning Cross-Modal Retrieval with Noisy Labels [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Learning_Cross-Modal_Retrieval_With_Noisy_Labels_CVPR_2021_paper.pdf) \[Wikipedia, INRIA-Websearch, NUS-WIDE, XMediaNet\]
