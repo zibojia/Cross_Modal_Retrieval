@@ -64,7 +64,7 @@ YFCC
 ### 2022
 **A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval** [\[link\]](https://openreview.net/pdf?id=-KPNRZ8i0ag) \[COCO, CUB, Flickr\]
 
-**Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval** [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) \[CC3M, Multi30K, COCO, XTD, MSRVTT\] [LSMDC, DiDeMo, MSVD, MSRVTT, ActivityNet, VaTeX, QuerYD]
+Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) \[CC3M, Multi30K, COCO, XTD, MSRVTT\] [LSMDC, DiDeMo, MSVD, MSRVTT, ActivityNet, VaTeX, QuerYD]
 
 **Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval** [\[link\]](https://openreview.net/pdf?id=XevwsaZ-4z) \[MSRVTT, MSVD, DIDEMO, LSMDC\]
 
