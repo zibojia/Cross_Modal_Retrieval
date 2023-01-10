@@ -28,16 +28,18 @@
 
 ### 2022
 
-|   Paper    |Task       |Dataset|Is Pretraining|
-|----------- | --------- |-------|--------------|
-|Multi-Lingual Acquisition on Multimodal Pre-training<br> for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) |Image Retrieval|CC3M, Multi30K, COCO, XTD, MSRVTT|Yes|
+|Task           |   Paper    |Dataset|Is Pretraining|Year|
+|-----------    | --------- |-------|--------------|----|
+|Image Retrieval|Multi-Lingual Acquisition on Multimodal Pre-training<br> for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) |CC3M, Multi30K, COCO, XTD, MSRVTT|Yes|2022|
+|Video Retrieval|Text-Adaptive Multiple Visual Prototype Matching for<br> Video-Text Retrieval[\[link\]](https://openreview.net/pdf?id=XevwsaZ-4z)|MSRVTT, MSVD, DIDEMO, LSMDC|No|2022|
 
 
 **Video**
 
-Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) \[CC3M, Multi30K, COCO, XTD, MSRVTT\] [LSMDC, DiDeMo, MSVD, MSRVTT, ActivityNet, VaTeX, QuerYD]
+Multi-Lingual Acquisition on Multimodal Pre-training for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) \[CC3M, Multi30K, COCO, XTD, MSRVTT\] 
 
-**Text-Adaptive Multiple Visual Prototype Matching for Video-Text Retrieval** [\[link\]](https://openreview.net/pdf?id=XevwsaZ-4z) \[MSRVTT, MSVD, DIDEMO, LSMDC\]
+[LSMDC, DiDeMo, MSVD, MSRVTT, ActivityNet, VaTeX, QuerYD]
+
 
 Everything at Once – Multi-modal Fusion Transformer for Video Retrieval [\[link\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf) \[HowTo100M, Web, CrossTask, Mining YouTube\]
 
