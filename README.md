@@ -10,7 +10,6 @@
 | Amazon reviews|    14M    |        -      |  -  |
 
 
-******************************************************************
 
 | Video Dataset| Num | Video Dataset |Num|
 |  ----------- | --------- | ------------ | --- |
@@ -62,6 +61,6 @@
 ||**Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval** [\[link\]](https://arxiv.org/pdf/2112.01832)| \[MSRVTT, TGIF, MSVD, VATEX\]|||
 ||CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching [\[link\]](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf)| \[YouCook2, MSRVTT, HowTo100M, CrossTask, Mining Youtube\]|||
 ||**IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval** [\[link\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_IMRAM_Iterative_Matching_With_Recurrent_Attention_Memory_for_Cross-Modal_Image-Text_CVPR_2020_paper.pdf)| \[KWAI-AD, Flickr, COCO\]|||
-||**Multi-modal Transformer for Video Retrieval** [\[link\]](https://arxiv.org/pdf/2007.10639)| \[MSRVTT, ActivityNet, LSMDC\]|||
-||Preserving Semantic Neighborhoods for Robust Cross-modal Retrieval [\[link\]](https://arxiv.org/pdf/2007.08617)| \[Politics,  GoodNews, CC, COCO\]|||
-||Learning Joint Visual Semantic Matching Embeddings for Language-guided Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670137.pdf)| \[Fashion200k\]|||
+|Video Retrieval|**Multi-modal Transformer for Video Retrieval** [\[link\]](https://arxiv.org/pdf/2007.10639)| \[MSRVTT, ActivityNet, LSMDC\]|No|2020|
+|Image Retrieval|Preserving Semantic Neighborhoods for Robust Cross-modal Retrieval [\[link\]](https://arxiv.org/pdf/2007.08617)| \[Politics,  GoodNews, CC, COCO\]|Yes|2020|
+|Image Retrieval|Learning Joint Visual Semantic Matching Embeddings for Language-guided Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670137.pdf)| \[Fashion200k\]|Yes|2020|
