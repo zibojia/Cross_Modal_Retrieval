@@ -28,7 +28,7 @@
 
 ### 2022
 
-|Task           |   Paper    |Dataset|Is Pretraining|Year|
+|Task           |   Paper    |Dataset|Pretraining|Year|
 |-----------    | --------- |-------|--------------|----|
 |Image Retrieval|Multi-Lingual Acquisition on Multimodal Pre-training<br> for Cross-modal Retrieval [\[link\]](https://openreview.net/pdf?id=h73nTbImOt9) |CC3M, Multi30K, COCO, XTD, MSRVTT|Yes|2022|
 |Video Retrieval|Text-Adaptive Multiple Visual Prototype Matching for<br> Video-Text Retrieval[\[link\]](https://openreview.net/pdf?id=XevwsaZ-4z)|MSRVTT, MSVD, DIDEMO, LSMDC|No|2022|
