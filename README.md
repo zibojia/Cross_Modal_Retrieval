@@ -1,5 +1,6 @@
 # Cross_Modal_Retrieval
-*Image*
+
+**Image**
 
 COCO  123K
 
@@ -24,7 +25,7 @@ VG
 SBU
 
 
-*Video*
+**Video**
 
 MSRVTT 10K
 
