@@ -53,25 +53,15 @@
 ||**Probabilistic Embeddings for Cross-Modal Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chun_Probabilistic_Embeddings_for_Cross-Modal_Retrieval_CVPR_2021_paper.pdf)| \[COCO, CUB\]|||
 ||TEACHTEXT: CrossModal Generalized Distillation for Text-Video Retrieval [\[link\]](http://www.csyangliu.com/Material/ICCV_TEACHTEXT.pdf)||||
 ||**Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval** [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf)| \[COCO, MSRVTT, MSVD, LSMDC\]|||
-
 ||Learning Cross-Modal Retrieval with Noisy Labels [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Learning_Cross-Modal_Retrieval_With_Noisy_Labels_CVPR_2021_paper.pdf)| \[Wikipedia, INRIA-Websearch, NUS-WIDE, XMediaNet\]|||
-
 ||Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning [\[link\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Salvador_Revamping_Cross-Modal_Recipe_Retrieval_With_Hierarchical_Transformers_and_Self-Supervised_Learning_CVPR_2021_paper.pdf)| \[Recipe1M\]|||
-
 ||**Ask&Confirm: Active Detail Enriching for Cross-Modal Retrieval with Partial Query** [\[link\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cai_AskConfirm_Active_Detail_Enriching_for_Cross-Modal_Retrieval_With_Partial_Query_ICCV_2021_paper.pdf)| \[New Dataset Based On Visual Genome\]|||
-
 ||Product1M: Towards Weakly Supervised Instance-Level Product Retrieval via Cross-Modal Pretraining [\[link\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhan_Product1M_Towards_Weakly_Supervised_Instance-Level_Product_Retrieval_via_Cross-Modal_Pretraining_ICCV_2021_paper.pdf)| \[Product1M\]|||
-
 ||**Wasserstein Coupled Graph Learning for Cross-Modal Retrieval** [\[link\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Wasserstein_Coupled_Graph_Learning_for_Cross-Modal_Retrieval_ICCV_2021_paper.pdf)| \[Fickr, COCO, Real World Scene Graph, Moviegraphs\]|||
-
 ||Deep Hash Distillation for Image Retrieval [\[link\]](https://arxiv.org/pdf/2112.08816)| \[ImageNet, NUS-WIDE, COCO\]|||
-
 ||**Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval** [\[link\]](https://arxiv.org/pdf/2112.01832)| \[MSRVTT, TGIF, MSVD, VATEX\]|||
 ||CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching [\[link\]](https://proceedings.neurips.cc/paper/2020/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf)| \[YouCook2, MSRVTT, HowTo100M, CrossTask, Mining Youtube\]|||
-
 ||**IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval** [\[link\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_IMRAM_Iterative_Matching_With_Recurrent_Attention_Memory_for_Cross-Modal_Image-Text_CVPR_2020_paper.pdf)| \[KWAI-AD, Flickr, COCO\]|||
-
 ||**Multi-modal Transformer for Video Retrieval** [\[link\]](https://arxiv.org/pdf/2007.10639)| \[MSRVTT, ActivityNet, LSMDC\]|||
 ||Preserving Semantic Neighborhoods for Robust Cross-modal Retrieval [\[link\]](https://arxiv.org/pdf/2007.08617)| \[Politics,  GoodNews, CC, COCO\]|||
-
 ||Learning Joint Visual Semantic Matching Embeddings for Language-guided Retrieval [\[link\]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670137.pdf)| \[Fashion200k\]|||
