@@ -2,25 +2,27 @@
 
 | Image Dataset | Num       | Video Dataset | Num |
 | ------------- | --------- | ------------- | --- |
-| COCO          | 123K      | MSRVTT        |  10K   |
-| Flickr        | 31K       | DIDEMO      |     |
-| VG            | 14M       | LSMDC      |     |
-| SBU           | 14M       | MSVD      |     |
-| CUB           | 11K       | YouCook2      |     |
-| CC3M          | 3.3M      | HowTo100M      |     |
-| CC14M         | 14M       | CrossTask      |     |
-| Multi30K      | 151K      | Mining Youtube    |     |
-| XTD           | 10K       | VaTeX      |     |
-| Fashion-Gen   | 14M       | QueryYD      |     |
-| Amazon reviews| 14M       | WebVid2M      |     |
+| COCO          | 123K      | ||
+| Flickr        | 31K       | VG            | 14M       | 
+| SBU           | 14M       | CUB           | 11K       | 
+| CC3M          | 3.3M      | CC14M         | 14M       | 
+| Multi30K      | 151K      | XTD           | 10K       | 
+| Fashion-Gen   | 14M       | Amazon reviews| 14M       | 
+
 
 ******************************************************************
 
 | Video Dataset |
-| ------------- | --------- | ------------- | --- |
+| ----------- | --------- | ------------ | --- |
+|MSRVTT       |  10K      |MSVD          |     |
+|LSMDC        |           |DIDEMO        |     |
+|YouCook2     |           |YFCC          |     |
+|CrossTask    |           |HowTo100M     |     |
+|VaTeX        |           |Mining Youtube|     |
+|WebVid2M     |           |QueryYD       |     |
 | VGGSound    | 14M       | LiveBot      |     |
-| Kinetics-700| 14M       | FCVID        |91K  |
-| ActivityNet | 20K       | YFCC         |     |
+| Kinetics-700| 14M       | FCVID        | 91K |
+| ActivityNet | 20K       |              |     |
 
  
 
