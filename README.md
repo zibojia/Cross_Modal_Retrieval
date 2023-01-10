@@ -12,17 +12,17 @@
 
 ******************************************************************
 
-| Video Dataset| - | - |
-| ----------- | --------- | ------------ | --- |
-|MSRVTT       |  10K      |MSVD          |     |
-|LSMDC        |           |DIDEMO        |     |
-|YouCook2     |           |YFCC          |     |
-|CrossTask    |           |HowTo100M     |     |
-|VaTeX        |           |Mining Youtube|     |
-|WebVid2M     |           |QueryYD       |     |
-| VGGSound    | 14M       | LiveBot      |     |
-| Kinetics-700| 14M       | FCVID        | 91K |
-| ActivityNet | 20K       |              |     |
+| Video Dataset| Num | Video Dataset |Num|
+|  ----------- | --------- | ------------ | --- |
+| MSRVTT       |  10K      |MSVD          |     |
+| LSMDC        |           |DIDEMO        |     |
+| YouCook2     |           |YFCC          |     |
+| CrossTask    |           |HowTo100M     |     |
+| VaTeX        |           |Mining Youtube|     |
+| WebVid2M     |           |QueryYD       |     |
+|  VGGSound    | 14M       | LiveBot      |     |
+|  Kinetics-700| 14M       | FCVID        | 91K |
+|  ActivityNet | 20K       |              |     |
 
 
 
